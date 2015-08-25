@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">你好！月球~</string>
+    <string name="action_settings">设置</string>
+    
+    <string name="hellomoon_play">播放</string>
+    <string name="hellomoon_stop">结束</string>
+    <string name="hellomoon_image_description">阿姆斯特朗在月球上</string>
+
+</resources>
